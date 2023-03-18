@@ -1,0 +1,6 @@
+// creating object files
+g++ -c GradeBook.cpp
+g++ -c driverProgram.cpp
+
+//  linking object files to get executable file
+ g++ -o gradebook GradeBook.o driverProgram.o
