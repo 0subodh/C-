@@ -26,5 +26,4 @@ int main()
 {
     Derived d;
     d.fun();
-    return 0;
 }
